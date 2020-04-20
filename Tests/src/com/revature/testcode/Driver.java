@@ -1,6 +1,6 @@
 package com.revature.testcode;
 
-import com.revature.beans.CarBean;
+import com.revature.beans.*;
 import com.revature.beans.InfoBean;
 import java.util.Scanner;
 
